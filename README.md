@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matsadura" alt="matsadura" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iamzidane" target="blank"><img src="https://img.shields.io/twitter/follow/iamzidane?logo=twitter&style=for-the-badge" alt="IamZidanee" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamzidane" target="blank"><img src="https://img.shields.io/twitter/follow/IamZidanee?logo=twitter&style=for-the-badge" alt="IamZidanee" /></a> </p>
 
 ## 🚀 About Me
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamzidane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IamZidanee" height="30" width="40" /></a>
+<a href="https://twitter.com/IamZidanee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IamZidanee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zidane-zaoui-06a267278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zidane-zaoui-06a267278/" height="30" width="40" /></a>
 </p>
 
