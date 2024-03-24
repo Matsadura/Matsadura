@@ -6,6 +6,10 @@
 
 <p align="center"> <a href="https://twitter.com/IamZidanee" target="blank"><img src="https://img.shields.io/twitter/follow/IamZidanee?logo=twitter&style=for-the-badge" alt="IamZidanee" /></a> </p>
 
+<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/zidandit123)
+</div>
+
 ## 🚀 About Me
 
 
