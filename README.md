@@ -1,39 +1,86 @@
-# Hello, World! I'm _Zidane ZAOUI_ 👋
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=matsadura&label=Profile%20views&color=0e75b6&style=flat" alt="matsadura" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matsadura" alt="matsadura" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/IamZidanee" target="blank"><img src="https://img.shields.io/twitter/follow/IamZidanee?logo=twitter&style=for-the-badge" alt="IamZidanee" /></a> </p>
-
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/zidandit123)
-</div>
-
-## 🚀 About Me
-
-
-👋 I'm __Zidane ZAOUI__, a passionate software engineering student at ALX, where we tackle complex challenges and solve real-world problems. My journey into software engineering began in childhood, and I've been driven by this passion ever since.
-
-🚀 I thrive on motivation, constantly seeking ways to improve and innovate. When I'm not engaged in ALX projects, you'll find me working on personal automation initiatives, all aimed at enhancing my learning experience.
-
-🌟 Let's connect and collaborate on exciting projects! Reach out to me at [My Gmail](mailto:zidanditoo@gmail.com).
-
-<h3 align="center">My Skills:</h3>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/IamZidanee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IamZidanee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zidane-zaoui-06a267278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zidane-zaoui-06a267278/" height="30" width="40" /></a>
+</p>
+<p align="center">  
+<img src ="https://github.com/Matsadura/Matsadura/assets/132571698/3164b9dd-4f66-432c-a309-643e262524ee">
 </p>
 
+## root:~$ ./whoami.sh
+>  Software engineering student at [ALX Africa](https://www.alxafrica.com/) Powered by [Holberton School](https://www.holbertonschool.com/) \
+>  “First solve the problem, then write the code.” - John Johnson 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matsadura&show_icons=true&locale=en&layout=compact" alt="matsadura" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matsadura&show_icons=true&locale=en" alt="matsadura" /></p>
+<pre>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matsadura&" alt="matsadura" /></p>
+╔══╡ root:~$ whoami ║════════▣▣▣
+║
+║  ▰ Software Engineering Student at ALX Africa
+║  ▰ Proudly from Meknes, Morocco
+║  ▰ Passionate about engineering, coding, learning, and teaching
+║  ▰ Interested in Automation, DevOps, low-level Programming and Netwroking
+║
+╚═══════════════════════════════▣▣▣
+
+╔══╡ root:~$ echo $SKILLS ║════════▣▣▣
+║
+║  ▰ Bash, Vagrant, WSL, Git, Linux
+║  ▰ C, Python, HTML, CSS, JS
+║  ▰ MySQL
+║
+╚═══════════════════════════════════════▣▣▣
+
+╔══╡ root:~$ echo $SOCIALS ║════════▣▣▣
+║
+║  ▰ <a href="https://www.linkedin.com/in/zidane-zaoui-06a267278/">LinkedIn</a>
+║  ▰ <a href="https://twitter.com/IamZidanee">Twitter</a>
+║  ▰ Discord: matsadura
+║
+╚═══════════════════════════════════════▣▣▣
+
+╔══╡ root:~$ ls ~/ALX ║══════▣▣▣
+║
+║  ▰ <a href="https://github.com/Matsadura/printf">Printf</a>
+║  ▰ <a href="https://github.com/Matsadura/simple_shell">Simple Shell</a>
+║  ▰ <a href="https://github.com/Matsadura/monty">Monty Interpreter</a>
+║  ▰ <a href="https://github.com/Matsadura/AirBnB_clone">AirBnB Clone v1</a>
+║  ▰ <a href="https://github.com/Matsadura/AirBnB_clone_v2">AirBnB Clone v2</a>
+║
+╚═══════════════════════════════▣▣▣
 
 
+╔══╡ root:~$ ls ~/ForTheCommunity ║══════▣▣▣
+║
+║  ▰ <a href="https://github.com/Matsadura/ALX_Time_Saver">ALX_Time_Saver</a>
+║  ▰ <a href="https://github.com/Matsadura/ALX_Holberton-Planning-Tracker">ALX_Planning_Tracker</a>
+║
+╚═══════════════════════════════════════════▣▣▣
+
+</pre>
+
+--------------
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/zidane-zaoui-06a267278/">
+        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zidane-zaoui-06a267278/" />
+    </a>
+    <span> * </span>
+    <a href="https://twitter.com/IamZidanee">
+        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/IamZidanee&color=1DA1F2" />
+    </a>
+    <span> * </span>
+    <a href="https://discordapp.com/users/921320842040848394">
+        <img alt="Discord Profile" src="https://img.shields.io/badge/-Discord-0072b1?style=flat&logo=Discord&logoColor=white&link=https://discordapp.com/users/921320842040848394&color=7289da" />
+    </a>
+
+</p>
+
+---------------
+| [![matsadura's GitHub stats](https://github-readme-stats.vercel.app/api?username=matsadura&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/matsadura?tab=repositories) | [![matsadura's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matsadura&layout=compact&hide_border=true&theme=dark)](https://github.com/matsadura?tab=repositories) |
+|:-:|:-:|
+
+<p align="center">
+	<img alt="matsadura's visitors" src="https://komarev.com/ghpvc/?username=matsadura&color=8c36db&style=flat&label=visitors" />
+	<img alt="matsadura's followers" src="https://img.shields.io/github/followers/matsadura?color=blueviolet" />
+	<img alt="matsadura's stars" src="https://img.shields.io/github/stars/matsadura?color=blueviolet" />
+</p>
+
+---------------
