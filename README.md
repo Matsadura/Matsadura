@@ -22,7 +22,8 @@
 
 ╔══╡ root:~$ echo $SKILLS ║════════▣▣▣
 ║
-║  ▰ Bash, Vagrant, WSL, Git, Linux
+║  ▰ Bash, Bash Scripting, Linux
+║  ▰ Vagrant, WSL, Git
 ║  ▰ C, Python, HTML, CSS, JS
 ║  ▰ MySQL
 ║
