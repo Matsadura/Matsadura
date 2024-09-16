@@ -37,6 +37,12 @@
 ║
 ╚═══════════════════════════════════════▣▣▣
 
+╔══╡ root:~$ ls ~/Projects ║══════▣▣▣
+║
+║  ▰ <a href="https://github.com/Matsadura/Clinema">Clinema</a>
+║
+╚═══════════════════════════════▣▣▣
+
 ╔══╡ root:~$ ls ~/ALX ║══════▣▣▣
 ║
 ║  ▰ <a href="https://github.com/Matsadura/printf">Printf</a>
