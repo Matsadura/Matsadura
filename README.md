@@ -24,8 +24,8 @@
 ║
 ║  ▰ Bash, Bash Scripting, Linux
 ║  ▰ Vagrant, WSL, Git
-║  ▰ C, CSS, HTML, JS, Python 
-║  ▰ MySQL, SQLAlchemy
+║  ▰ C, CSS, HTML, JS, Python, TypeScript 
+║  ▰ MySQL, SQLAlchemy, NoSQL, MongoDB, Redis
 ║
 ╚═══════════════════════════════════════▣▣▣
 
