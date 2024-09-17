@@ -37,7 +37,7 @@
 ║
 ╚═══════════════════════════════════════▣▣▣
 
-╔══╡ root:~$ ls ~/Projects ║══════▣▣▣
+╔══╡ root:~$ ls ~/IdidThis ║══════▣▣▣
 ║
 ║  ▰ <a href="https://github.com/Matsadura/Clinema">Clinema</a>
 ║
