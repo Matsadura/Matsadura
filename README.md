@@ -17,7 +17,7 @@
 ║  ▰ Digital Technologies Architect Student at 1337 Coding School
 ║  ▰ Proudly from Meknes, Morocco
 ║  ▰ Passionate about engineering, coding, learning, and teaching
-║  ▰ Interested in Automation, DevOps, low-level Programming and Netwroking
+║  ▰ Interested in Automation, DevOps, low-level Programming and Networking
 ║
 ╚═══════════════════════════════▣▣▣
 
