@@ -13,7 +13,8 @@
 
 ╔══╡ root:~$ whoami ║════════▣▣▣
 ║
-║  ▰ Software Engineering Student at ALX Africa & 1337 
+║  ▰ Full Stack Software Engineering Graduate with a Specialization in Backend from ALX Africa
+║  ▰ Digital Technologies Architect Student at 1337 Coding School
 ║  ▰ Proudly from Meknes, Morocco
 ║  ▰ Passionate about engineering, coding, learning, and teaching
 ║  ▰ Interested in Automation, DevOps, low-level Programming and Netwroking
