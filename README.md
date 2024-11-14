@@ -40,6 +40,7 @@
 ╔══╡ root:~$ ls ~/IdidThis ║══════▣▣▣
 ║
 ║  ▰ <a href="https://github.com/Matsadura/Clinema">Clinema</a>
+║  ▰ <a href="https://github.com/Matsadura/CodeLoop">CodeLoop</a>
 ║
 ╚═══════════════════════════════▣▣▣
 
