@@ -61,6 +61,7 @@
 
 ╔══╡ root:~$ ls ~/ForTheCommunity ║══════▣▣▣
 ║
+║  ▰ <a href="https://github.com/Matsadura/42Project_compass">42Project_Compass</a>
 ║  ▰ <a href="https://github.com/Matsadura/ALX_Time_Saver">ALX_Time_Saver</a>
 ║  ▰ <a href="https://github.com/Matsadura/ALX_Holberton-Planning-Tracker">ALX_Planning_Tracker</a>
 ║
