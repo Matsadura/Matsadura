@@ -33,7 +33,7 @@
 
 ╔══╡ root:~$ echo $SOCIALS ║════════▣▣▣
 ║
-║  ▰ <a href="https://www.linkedin.com/in/zidane-zaoui-06a267278/">LinkedIn</a>
+║  ▰ <a href="https://www.linkedin.com/in/zidane-zaoui/">LinkedIn</a>
 ║  ▰ <a href="https://twitter.com/IamZidanee">Twitter</a>
 ║  ▰ Discord: matsadura
 ║
@@ -72,8 +72,8 @@
 --------------
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/zidane-zaoui-06a267278/">
-        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zidane-zaoui-06a267278/" />
+    <a href="https://www.linkedin.com/in/zidane-zaoui/">
+        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zidane-zaoui/" />
     </a>
     <span> * </span>
     <a href="https://twitter.com/IamZidanee">
