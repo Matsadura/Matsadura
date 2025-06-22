@@ -4,7 +4,7 @@
 </p>
 
 ## root:~$ ./whoami.sh
->  Software engineering graduate from [ALX Africa](https://www.alxafrica.com/) Powered by [Holberton](https://www.holbertonschool.com/) | [1337](https://1337.ma/en/) Powered by [42](https://www.42network.org/) \
+>  Software engineering graduate from [ALX Africa](https://www.alxafrica.com/) Powered by [Holberton](https://www.holbertonschool.com/) | [1337](https://1337.ma/en/) of [UM6P](https://um6p.ma/en) Powered by [42](https://www.42network.org/) \
 >  “First solve the problem, then write the code.” - John Johnson 
 
 
