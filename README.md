@@ -25,7 +25,7 @@
 ║
 ║  ▰ Bash, Bash Scripting, Linux
 ║  ▰ Vagrant, WSL, Git, Docker
-║  ▰ C, CSS, HTML, JS, Python, TypeScript 
+║  ▰ C, C++, CSS, HTML, JS, Python, TypeScript 
 ║  ▰ MySQL, SQLAlchemy, NoSQL, MongoDB, Redis
 ║  ▰ Flask, ExpressJs
 ║
