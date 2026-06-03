@@ -65,6 +65,8 @@
 ║  ▰ <a href="https://github.com/Matsadura/push_swap">Push Swap</a>
 ║  ▰ <a href="https://github.com/Matsadura/minishell">Minishell</a>
 ║  ▰ <a href="https://github.com/Matsadura/so_long">So Long</a>
+║  ▰ <a href="https://github.com/Matsadura/Cub3D">Cub3D</a>
+║  ▰ <a href="https://github.com/Matsadura/philosophers">Philosophers</a>
 ║
 ╚═══════════════════════════════▣▣▣
 
@@ -76,6 +78,12 @@
 ║
 ╚═══════════════════════════════════════════▣▣▣
 
+╔══╡ root:~$ ls ~/Misc ║══════▣▣▣
+║
+║  ▰ <a href="https://github.com/Matsadura/TouchEmuAssist">TouchEmuAssist</a>
+║
+╚═══════════════════════════════════════════▣▣▣
+	
 </pre>
 
 --------------
