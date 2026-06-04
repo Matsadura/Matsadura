@@ -93,25 +93,30 @@
     <a href="https://www.linkedin.com/in/zidane-zaoui/">
         <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zidane-zaoui/" />
     </a>
-    <span> * </span>
     <a href="https://twitter.com/IamZidanee">
         <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/IamZidanee&color=1DA1F2" />
     </a>
-    <span> * </span>
     <a href="https://discordapp.com/users/921320842040848394">
         <img alt="Discord Profile" src="https://img.shields.io/badge/-Discord-0072b1?style=flat&logo=Discord&logoColor=white&link=https://discordapp.com/users/921320842040848394&color=7289da" />
     </a>
-
 </p>
 
 ---------------
-| [![matsadura's GitHub stats](https://github-readme-stats.vercel.app/api?username=matsadura&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/matsadura?tab=repositories) | [![matsadura's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matsadura&layout=compact&hide_border=true&theme=dark)](https://github.com/matsadura?tab=repositories) |
-|:-:|:-:|
 
 <p align="center">
-	<img alt="matsadura's visitors" src="https://komarev.com/ghpvc/?username=matsadura&color=8c36db&style=flat&label=visitors" />
-	<img alt="matsadura's followers" src="https://img.shields.io/github/followers/matsadura?color=blueviolet" />
-	<img alt="matsadura's stars" src="https://img.shields.io/github/stars/matsadura?color=blueviolet" />
+  <a href="https://github.com/matsadura?tab=repositories">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=matsadura&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark" />
+  </a>
+  <a href="https://github.com/matsadura?tab=repositories">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=matsadura&layout=compact&hide_border=true&theme=dark" />
+  </a>
+</p>
+
+
+<p align="center">
+	<img alt="matsadura's visitors" src="https://komarev.com/ghpvc/?username=matsadura&color=24292e&style=for-the-badge&label=VISITORS" />
+	<img alt="matsadura's followers" src="https://img.shields.io/github/followers/matsadura?style=for-the-badge&labelColor=24292e&color=24292e" />
+	<img alt="matsadura's stars" src="https://img.shields.io/github/stars/matsadura?style=for-the-badge&labelColor=24292e&color=24292e" />
 </p>
 
 ---------------
