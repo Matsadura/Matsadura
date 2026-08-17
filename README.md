@@ -14,7 +14,7 @@
 ╔══╡ root:~$ whoami ║════════▣▣▣
 ║
 ║  ▰ Full Stack Software Engineering Graduate with a Specialization in Backend from ALX Africa
-║  ▰ Digital Technologies Architect Student at 1337 Coding School - UM6P
+║  ▰ Digital Technology Architect Student at 1337 Coding School - UM6P
 ║  ▰ Proudly from Meknes, Morocco
 ║  ▰ Passionate about engineering, coding, learning, and teaching
 ║  ▰ Interested in Automation, DevOps, low-level Programming and Networking
@@ -69,6 +69,7 @@
 ║  ▰ <a href="https://github.com/Matsadura/Cub3D">Cub3D</a>
 ║  ▰ <a href="https://github.com/Matsadura/philosophers">Philosophers</a>
 ║  ▰ <a href="https://github.com/Matsadura/Inception">Inception</a>
+║  ▰ <a href="https://github.com/Matsadura/AIZ-Protocol">WebServ</a>
 ║
 ╚═══════════════════════════════▣▣▣
 
